@@ -81,11 +81,14 @@ Jupyter Notebook
 
 # 📂 Project Structure
 Wine-Quality-Prediction/
-│
 ├── dataset.csv
 ├── wine_quality_prediction.ipynb
 ├── requirements.txt
-└── README.md
+├── README.md
+├── app.py
+├── app1.py
+├── wineCheck.ipynb
+
 🚀 How to Run
 # Clone the repository
 https://github.com/AKHILESH-create/Wine_Quality_Prediction/edit/main/README.md
